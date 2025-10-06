@@ -17,6 +17,7 @@
 - Matplotlib
 
 ## 📂 Структура проекта
+```bash
 Airline Passenger Analysis/
 │
 ├── data/
@@ -33,16 +34,19 @@ Airline Passenger Analysis/
 └── src/
     ├── preprocessing.py # Обработка данных, анализ
     └── visualization.py # Визуализация
-
+```
               
 ## 🚀 Запуск проекта 
 1. Установка
+```bash
 pip install pandas
 pip install seaborn
 pip install matplotlib
+```
 2. Запуск
+```bash
 analysis.ipynb
-
+```
 
 ## 📊 Шаги анализа (реализованы в коде)
  ### 1. Обзор данных
